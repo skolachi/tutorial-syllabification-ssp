@@ -1,0 +1,13 @@
+Mens et Manus Linguistics 
+
+Tutorial on how to build a syllabifier based on Sonority Sequencing principle
+
+1. Link to CMU pronunciation dictionary- https://raw.githubusercontent.com/cmusphinx/cmudict/master/cmudict.dict
+
+2. Phone set documentation- https://en.wikipedia.org/wiki/ARPABET
+
+3. Follow the steps in the Jupyter notebook.
+
+4. Try to tweak the definition of valid syllable by adding onset and coda constraints.
+
+5. Try this parser with a new language and a new phone set (IPA).
